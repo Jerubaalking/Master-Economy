@@ -1,0 +1,135 @@
+
+SCENE 1
+
+ENVIRONMENT: Kituo cha polisi, ofisi ya kitengo cha madawa ya kulevya
+
+Imma amekaa na polisi mwenzake Petro wanazungumza huku wanachora kwenye karatasi, 
+
+Petro: Tukitaka tuwakamate vizuri inatakiwa tuende na gari tuliache hapa kwenye kilima (huku akionyesha kwa kalamu kwenye karatasi), kisha tushuke tuwafate kwa miguu, tukishawaweka chini ya ulinzi ndipo tupige simu.
+
+Imma: Ndio kabisa, wakisikia sauti ya gari watashtuka na kukimbia.
+
+Petro: inakuwa kama tunawavamia.
+
+Imma: Inaitwa shambulizi la kushtukiza
+
+(Imma na petro wanapeana tano huku wanacheka)
+
+hodi inapigwa 
+
+Prisca: Hodii
+
+Petro: karibu
+
+#Afande prisca anaingia hadi ndani
+
+Imma: unasemaje mrembo
+
+Prisca: Unaitwa na mkuu wa kituo.
+
+Imma: Mimi au Petro
+
+Prisca: Wote.
+
+Imma: mbona umesema unaitwa na sio mnaitwa? 
+
+Petro: inafaa tumpe mafunzo ya kiswahili huyu 
+
+Prisca: mkuu anasubiri, nyie endeleeni na kiswahili hapo mimi nimeshawakilisha, bye
+
+#Prisca anaanza kuondoka kuelekea mlangoni
+
+Imma: Subiri tuende wote
+
+
+
+
+
+SCENE 2
+
+ENVIRONMENT: Kituo cha polisi, ofisi mkuu wa kituo
+
+#Ima na Petro wanasimama wanaongozana na Prisca hadi kwenye ofisi ya mkuu wa kituo, Wanaingia ndani wanakuta mkuu wa kituo ameketi wa wageni wawili waliovaa kiraia.
+
+
+Imma: Mkuu tumesikia unatuhitaji.
+
+Mkuu: Siwahitaji kwani nyie ni mama watoto, nimewaita tu
+
+# wote wanacheka
+
+Mkuu: Ima na petro nimewaita hapa tuna ugeni kutoka makao makuu ya polisi taifa, huyu anaitwa aisha
+
+# Anamshika bega aisha
+
+ Mkuu: ni polisi kitengo cha habari na huyu mwingine anaitwa chale
+
+ # anamshika chale bega
+
+ Mkuu: ni mgeni kutoka taasisi ya haki za binaadamu. wote wawili wataongozana na ninyi mnapofanya operesheni zenu na shughuli za kiaskari kwa wiki mbili, baada ya hapo wataandaa taarifa maalumu ya kuiwakilisha makao makuu ya polisi. kwa hiyo nawakabidhi hawa wageni mimi nina shughuli zimenizidi sana hapa, mtaenda kutambulishana mbele ya safari, HAYAAA TAWANYIKENII.
+
+ ima, petro, prisca, aisha, chale: sawa mkuu 
+
+
+
+ SCENE 3
+
+ENVIRONMENT: Kituo cha polisi,  ofisi ya kitengo cha madawa ya kulevya
+
+#ima, petro, prisca, aisha, chale wanaondoka kutoka kwenye ofisi ya mkuu wa kituo kuelekea kwenye ofisi ya kitengo cha madawa ya kulevya.
+
+Petro: Karibuni sana wageni wetu, hii ndio ofisi yetu na tupo wengi kama 11 ingawa wengine wapo lunch, wawili wapo likizo na wengine wapo field. Mi naona tungeanza na kujitambulisha, au sio
+
+chale: ndio kabsa.
+
+Petro: Naomba nianze mimi, Mimi naitwa afande petro, nafanya kitengo cha vielelezo. Ima karibu.
+
+IMMA: Ok, Jina langu ni afande imma, mimi ni polisi kiongozi kitengo maalumu cha madawa ya kulevya.
+
+#Kimnya kinatawala kwa sekunde kadhaa
+
+Imma: afande Prisca karibu
+
+Prisca: mimi nilishajitambulisha kabla hamjaitwa.
+
+Imma: jitambulishe tena bana, sisi hatukuwepo.
+
+Prisca: jamani, haya mimi naitwa afande prisca ni afisa mpelelezi.
+
+$query=mysqli_query($conn, "SELECT *, SUM(Dramount) as Dramounts, SUM(Cramount) as Cramounts, max(Tdate) as Tdatem FROM `Trans` WHERE `Fullname` = '$date1' order by tdate,TRECEPT") or die(mysqli_error());
+
+
+Petro: asanteni sana kwa kujitambulisha, naona niwakaribishe wageni mjitambulishe tena na mtuelezee kinachohitajika kufanya ili kufanikisha lengo lenu. karibuni.
+
+
+Imma: Karibuni jaman msione haya.
+
+Prisca: jisikien nyumbani.
+
+chale: asanten sana jamani, kama mkuu wa kituo alivyoeleza hapo awali, mimi natokea kitengo cha haki za binadamu. tunafanya tadhimini ya utekelezaji wa haki za binadamu katika utendaji wa polisi kwa raia, kwa hiyo baada ya muda wetu kukamilika nitakuwa na mambo ya kupongeza na mambo ya kushauri.
+
+Petro: kwa hiyo ni kama ukaguzi?
+
+chale: hapana afande petro, sio ukaguzi.
+
+petro: asante afande chale, karibu aisha.
+
+aisha: asante afande, mimi najishughulisha na habari zinazohusu matukio mbalimbali yanayohusu jeshi la polisi, nitarekodi baadhi ya matukio na baadaye nitayaunganisha na matukio ya vituo vingine ili baadaye tutatoa jarida maalumu ambalo litaonyesha shughuli za jeshi la polisi. kwani kuna mwenye swali
+
+imma: hilo jarida lina lengo gani hasa, hapo ndipo uliponiacha.
+
+aisha: lengo la hilo jarida aisha, ni kuonyesha utekelezaji wa majukum ya polisi kwa jamii na serikali, hii itaondoa taswira ya kujitungia kutoka kwa viongozi wa serikali na wananchi.
+
+Imma: asante sana kwa maelezo yako, kwa hiyo kati yenu hakuna mkaguzi.
+
+aisha: hakuna kwa kweli, kuwa na amani
+
+# wote wanacheka(aisha, chale, ima, petro)
+
+
+
+leo tunavamia moja ya kijiwe cha uvutaji madawa yakulevya ili kuweza kuwafikisha mbele za haki, sorry nimekosea kidogo, mbele ya mikono ya sheria. Mbele za haki ingemaanisha kuwaua lakini lengo letu si kuua mtu yeyote bali kutimiza wajibu wetu.
+
+
+Mpenzi, shuhudia ubora uliodhibitishwa.
+
